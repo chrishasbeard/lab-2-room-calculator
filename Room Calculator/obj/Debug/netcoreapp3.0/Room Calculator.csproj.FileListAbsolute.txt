@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\obj\Debug\netcoreapp3.0\Room Calculator.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\obj\Debug\netcoreapp3.0\Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\obj\Debug\netcoreapp3.0\Room Calculator.AssemblyInfo.cs
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.exe
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.deps.json
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.runtimeconfig.json
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.runtimeconfig.dev.json
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.dll
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\bin\Debug\netcoreapp3.0\Room Calculator.pdb
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\obj\Debug\netcoreapp3.0\Room Calculator.dll
+C:\Users\Holmes HQ\Documents\Class Work Grand Circus\Room Calculator\Room Calculator\obj\Debug\netcoreapp3.0\Room Calculator.pdb
